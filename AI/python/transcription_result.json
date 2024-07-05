@@ -1,0 +1,1575 @@
+{
+  "language": "en",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.74,
+      "text": " So have you ever noticed that when you're on Google, you get these super targeted ads that",
+      "words": [
+        {
+          "word": " So",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "word": " have",
+          "start": 0.26,
+          "end": 0.56
+        },
+        {
+          "word": " you",
+          "start": 0.56,
+          "end": 0.66
+        },
+        {
+          "word": " ever",
+          "start": 0.66,
+          "end": 0.76
+        },
+        {
+          "word": " noticed",
+          "start": 0.76,
+          "end": 1.06
+        },
+        {
+          "word": " that",
+          "start": 1.06,
+          "end": 1.36
+        },
+        {
+          "word": " when",
+          "start": 1.36,
+          "end": 1.48
+        },
+        {
+          "word": " you're",
+          "start": 1.48,
+          "end": 1.64
+        },
+        {
+          "word": " on",
+          "start": 1.64,
+          "end": 1.72
+        },
+        {
+          "word": " Google,",
+          "start": 1.72,
+          "end": 1.92
+        },
+        {
+          "word": " you",
+          "start": 2.36,
+          "end": 2.38
+        },
+        {
+          "word": " get",
+          "start": 2.38,
+          "end": 2.5
+        },
+        {
+          "word": " these",
+          "start": 2.5,
+          "end": 2.64
+        },
+        {
+          "word": " super",
+          "start": 2.64,
+          "end": 2.9
+        },
+        {
+          "word": " targeted",
+          "start": 2.9,
+          "end": 3.28
+        },
+        {
+          "word": " ads",
+          "start": 3.28,
+          "end": 3.56
+        },
+        {
+          "word": " that",
+          "start": 3.56,
+          "end": 3.74
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.74,
+      "end": 8.66,
+      "text": " seem to know exactly what you're interested in? Yeah, it's kind of freaky, right? Well,",
+      "words": [
+        {
+          "word": " seem",
+          "start": 3.74,
+          "end": 3.98
+        },
+        {
+          "word": " to",
+          "start": 3.98,
+          "end": 4.12
+        },
+        {
+          "word": " know",
+          "start": 4.12,
+          "end": 4.26
+        },
+        {
+          "word": " exactly",
+          "start": 4.26,
+          "end": 4.58
+        },
+        {
+          "word": " what",
+          "start": 4.58,
+          "end": 4.84
+        },
+        {
+          "word": " you're",
+          "start": 4.84,
+          "end": 4.96
+        },
+        {
+          "word": " interested",
+          "start": 4.96,
+          "end": 5.24
+        },
+        {
+          "word": " in?",
+          "start": 5.24,
+          "end": 5.66
+        },
+        {
+          "word": " Yeah,",
+          "start": 6.08,
+          "end": 6.38
+        },
+        {
+          "word": " it's",
+          "start": 6.66,
+          "end": 6.82
+        },
+        {
+          "word": " kind",
+          "start": 6.82,
+          "end": 6.9
+        },
+        {
+          "word": " of",
+          "start": 6.9,
+          "end": 7.02
+        },
+        {
+          "word": " freaky,",
+          "start": 7.02,
+          "end": 7.38
+        },
+        {
+          "word": " right?",
+          "start": 7.46,
+          "end": 7.62
+        },
+        {
+          "word": " Well,",
+          "start": 8.24,
+          "end": 8.66
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.82,
+      "end": 12.26,
+      "text": " it's because Google is using these things called cookies and data to track what you're doing online.",
+      "words": [
+        {
+          "word": " it's",
+          "start": 8.82,
+          "end": 8.94
+        },
+        {
+          "word": " because",
+          "start": 8.94,
+          "end": 9.06
+        },
+        {
+          "word": " Google",
+          "start": 9.06,
+          "end": 9.36
+        },
+        {
+          "word": " is",
+          "start": 9.36,
+          "end": 9.64
+        },
+        {
+          "word": " using",
+          "start": 9.64,
+          "end": 9.86
+        },
+        {
+          "word": " these",
+          "start": 9.86,
+          "end": 10.04
+        },
+        {
+          "word": " things",
+          "start": 10.04,
+          "end": 10.28
+        },
+        {
+          "word": " called",
+          "start": 10.28,
+          "end": 10.52
+        },
+        {
+          "word": " cookies",
+          "start": 10.52,
+          "end": 10.72
+        },
+        {
+          "word": " and",
+          "start": 10.72,
+          "end": 11.06
+        },
+        {
+          "word": " data",
+          "start": 11.06,
+          "end": 11.2
+        },
+        {
+          "word": " to",
+          "start": 11.2,
+          "end": 11.36
+        },
+        {
+          "word": " track",
+          "start": 11.36,
+          "end": 11.52
+        },
+        {
+          "word": " what",
+          "start": 11.52,
+          "end": 11.7
+        },
+        {
+          "word": " you're",
+          "start": 11.7,
+          "end": 11.86
+        },
+        {
+          "word": " doing",
+          "start": 11.86,
+          "end": 12.04
+        },
+        {
+          "word": " online.",
+          "start": 12.04,
+          "end": 12.26
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.04,
+      "end": 16.48,
+      "text": " They're basically monitoring your activity, like what you're searching for and what websites",
+      "words": [
+        {
+          "word": " They're",
+          "start": 13.04,
+          "end": 13.28
+        },
+        {
+          "word": " basically",
+          "start": 13.28,
+          "end": 13.56
+        },
+        {
+          "word": " monitoring",
+          "start": 13.56,
+          "end": 13.94
+        },
+        {
+          "word": " your",
+          "start": 13.94,
+          "end": 14.34
+        },
+        {
+          "word": " activity,",
+          "start": 14.34,
+          "end": 14.62
+        },
+        {
+          "word": " like",
+          "start": 14.94,
+          "end": 15.06
+        },
+        {
+          "word": " what",
+          "start": 15.06,
+          "end": 15.2
+        },
+        {
+          "word": " you're",
+          "start": 15.2,
+          "end": 15.3
+        },
+        {
+          "word": " searching",
+          "start": 15.3,
+          "end": 15.52
+        },
+        {
+          "word": " for",
+          "start": 15.52,
+          "end": 15.84
+        },
+        {
+          "word": " and",
+          "start": 15.84,
+          "end": 16.0
+        },
+        {
+          "word": " what",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "word": " websites",
+          "start": 16.16,
+          "end": 16.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.48,
+      "end": 20.46,
+      "text": " you're visiting to build a profile of what you're interested in. And then, they use that",
+      "words": [
+        {
+          "word": " you're",
+          "start": 16.48,
+          "end": 16.74
+        },
+        {
+          "word": " visiting",
+          "start": 16.74,
+          "end": 17.02
+        },
+        {
+          "word": " to",
+          "start": 17.02,
+          "end": 17.36
+        },
+        {
+          "word": " build",
+          "start": 17.36,
+          "end": 17.54
+        },
+        {
+          "word": " a",
+          "start": 17.54,
+          "end": 17.64
+        },
+        {
+          "word": " profile",
+          "start": 17.64,
+          "end": 17.94
+        },
+        {
+          "word": " of",
+          "start": 17.94,
+          "end": 18.12
+        },
+        {
+          "word": " what",
+          "start": 18.12,
+          "end": 18.22
+        },
+        {
+          "word": " you're",
+          "start": 18.22,
+          "end": 18.3
+        },
+        {
+          "word": " interested",
+          "start": 18.3,
+          "end": 18.52
+        },
+        {
+          "word": " in.",
+          "start": 18.52,
+          "end": 19.06
+        },
+        {
+          "word": " And",
+          "start": 19.5,
+          "end": 19.7
+        },
+        {
+          "word": " then,",
+          "start": 19.7,
+          "end": 19.88
+        },
+        {
+          "word": " they",
+          "start": 19.88,
+          "end": 20.2
+        },
+        {
+          "word": " use",
+          "start": 20.2,
+          "end": 20.3
+        },
+        {
+          "word": " that",
+          "start": 20.3,
+          "end": 20.46
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.46,
+      "end": 24.92,
+      "text": " information to show you ads and content that are super relevant to you. Like, if you've been searching",
+      "words": [
+        {
+          "word": " information",
+          "start": 20.46,
+          "end": 20.72
+        },
+        {
+          "word": " to",
+          "start": 20.72,
+          "end": 21.04
+        },
+        {
+          "word": " show",
+          "start": 21.04,
+          "end": 21.22
+        },
+        {
+          "word": " you",
+          "start": 21.22,
+          "end": 21.38
+        },
+        {
+          "word": " ads",
+          "start": 21.38,
+          "end": 21.52
+        },
+        {
+          "word": " and",
+          "start": 21.52,
+          "end": 21.64
+        },
+        {
+          "word": " content",
+          "start": 21.64,
+          "end": 21.86
+        },
+        {
+          "word": " that",
+          "start": 21.86,
+          "end": 22.1
+        },
+        {
+          "word": " are",
+          "start": 22.1,
+          "end": 22.2
+        },
+        {
+          "word": " super",
+          "start": 22.2,
+          "end": 22.36
+        },
+        {
+          "word": " relevant",
+          "start": 22.36,
+          "end": 22.68
+        },
+        {
+          "word": " to",
+          "start": 22.68,
+          "end": 22.98
+        },
+        {
+          "word": " you.",
+          "start": 22.98,
+          "end": 23.12
+        },
+        {
+          "word": " Like,",
+          "start": 23.72,
+          "end": 23.96
+        },
+        {
+          "word": " if",
+          "start": 24.0,
+          "end": 24.46
+        },
+        {
+          "word": " you've",
+          "start": 24.46,
+          "end": 24.6
+        },
+        {
+          "word": " been",
+          "start": 24.6,
+          "end": 24.68
+        },
+        {
+          "word": " searching",
+          "start": 24.68,
+          "end": 24.92
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.92,
+      "end": 29.56,
+      "text": " for running shoes, you might start seeing ads from Nike or Adidas. It's pretty clever,",
+      "words": [
+        {
+          "word": " for",
+          "start": 24.92,
+          "end": 25.24
+        },
+        {
+          "word": " running",
+          "start": 25.24,
+          "end": 25.48
+        },
+        {
+          "word": " shoes,",
+          "start": 25.48,
+          "end": 25.72
+        },
+        {
+          "word": " you",
+          "start": 26.24,
+          "end": 26.28
+        },
+        {
+          "word": " might",
+          "start": 26.28,
+          "end": 26.4
+        },
+        {
+          "word": " start",
+          "start": 26.4,
+          "end": 26.62
+        },
+        {
+          "word": " seeing",
+          "start": 26.62,
+          "end": 26.94
+        },
+        {
+          "word": " ads",
+          "start": 26.94,
+          "end": 27.18
+        },
+        {
+          "word": " from",
+          "start": 27.18,
+          "end": 27.38
+        },
+        {
+          "word": " Nike",
+          "start": 27.38,
+          "end": 27.56
+        },
+        {
+          "word": " or",
+          "start": 27.56,
+          "end": 27.74
+        },
+        {
+          "word": " Adidas.",
+          "start": 27.74,
+          "end": 27.94
+        },
+        {
+          "word": " It's",
+          "start": 28.96,
+          "end": 29.12
+        },
+        {
+          "word": " pretty",
+          "start": 29.12,
+          "end": 29.24
+        },
+        {
+          "word": " clever,",
+          "start": 29.24,
+          "end": 29.56
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 29.84,
+      "end": 34.14,
+      "text": " but also a little creepy, right? The thing is, Google's not just using this data for ads.",
+      "words": [
+        {
+          "word": " but",
+          "start": 29.84,
+          "end": 29.94
+        },
+        {
+          "word": " also",
+          "start": 29.94,
+          "end": 30.1
+        },
+        {
+          "word": " a",
+          "start": 30.1,
+          "end": 30.1
+        },
+        {
+          "word": " little",
+          "start": 30.1,
+          "end": 30.4
+        },
+        {
+          "word": " creepy,",
+          "start": 30.4,
+          "end": 30.62
+        },
+        {
+          "word": " right?",
+          "start": 30.94,
+          "end": 30.98
+        },
+        {
+          "word": " The",
+          "start": 31.7,
+          "end": 31.84
+        },
+        {
+          "word": " thing",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "word": " is,",
+          "start": 32.0,
+          "end": 32.18
+        },
+        {
+          "word": " Google's",
+          "start": 32.46,
+          "end": 32.8
+        },
+        {
+          "word": " not",
+          "start": 32.8,
+          "end": 32.94
+        },
+        {
+          "word": " just",
+          "start": 32.94,
+          "end": 33.16
+        },
+        {
+          "word": " using",
+          "start": 33.16,
+          "end": 33.4
+        },
+        {
+          "word": " this",
+          "start": 33.4,
+          "end": 33.6
+        },
+        {
+          "word": " data",
+          "start": 33.6,
+          "end": 33.76
+        },
+        {
+          "word": " for",
+          "start": 33.76,
+          "end": 33.98
+        },
+        {
+          "word": " ads.",
+          "start": 33.98,
+          "end": 34.14
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 34.94,
+      "end": 39.46,
+      "text": " They're also using it to improve the services, like making search results more accurate and stuff.",
+      "words": [
+        {
+          "word": " They're",
+          "start": 34.94,
+          "end": 35.3
+        },
+        {
+          "word": " also",
+          "start": 35.3,
+          "end": 35.5
+        },
+        {
+          "word": " using",
+          "start": 35.5,
+          "end": 35.88
+        },
+        {
+          "word": " it",
+          "start": 35.88,
+          "end": 36.06
+        },
+        {
+          "word": " to",
+          "start": 36.06,
+          "end": 36.14
+        },
+        {
+          "word": " improve",
+          "start": 36.14,
+          "end": 36.32
+        },
+        {
+          "word": " the",
+          "start": 36.32,
+          "end": 36.6
+        },
+        {
+          "word": " services,",
+          "start": 36.6,
+          "end": 36.9
+        },
+        {
+          "word": " like",
+          "start": 37.36,
+          "end": 37.46
+        },
+        {
+          "word": " making",
+          "start": 37.46,
+          "end": 37.74
+        },
+        {
+          "word": " search",
+          "start": 37.74,
+          "end": 37.94
+        },
+        {
+          "word": " results",
+          "start": 37.94,
+          "end": 38.2
+        },
+        {
+          "word": " more",
+          "start": 38.2,
+          "end": 38.5
+        },
+        {
+          "word": " accurate",
+          "start": 38.5,
+          "end": 38.86
+        },
+        {
+          "word": " and",
+          "start": 38.86,
+          "end": 39.22
+        },
+        {
+          "word": " stuff.",
+          "start": 39.22,
+          "end": 39.46
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 40.26,
+      "end": 45.12,
+      "text": " And they're also using it to protect you from spam and scams, which is pretty cool. But if",
+      "words": [
+        {
+          "word": " And",
+          "start": 40.26,
+          "end": 40.62
+        },
+        {
+          "word": " they're",
+          "start": 40.62,
+          "end": 41.04
+        },
+        {
+          "word": " also",
+          "start": 41.04,
+          "end": 41.18
+        },
+        {
+          "word": " using",
+          "start": 41.18,
+          "end": 41.54
+        },
+        {
+          "word": " it",
+          "start": 41.54,
+          "end": 41.68
+        },
+        {
+          "word": " to",
+          "start": 41.68,
+          "end": 41.74
+        },
+        {
+          "word": " protect",
+          "start": 41.74,
+          "end": 41.96
+        },
+        {
+          "word": " you",
+          "start": 41.96,
+          "end": 42.18
+        },
+        {
+          "word": " from",
+          "start": 42.18,
+          "end": 42.32
+        },
+        {
+          "word": " spam",
+          "start": 42.32,
+          "end": 42.52
+        },
+        {
+          "word": " and",
+          "start": 42.52,
+          "end": 42.68
+        },
+        {
+          "word": " scams,",
+          "start": 42.68,
+          "end": 42.86
+        },
+        {
+          "word": " which",
+          "start": 43.3,
+          "end": 43.48
+        },
+        {
+          "word": " is",
+          "start": 43.48,
+          "end": 43.62
+        },
+        {
+          "word": " pretty",
+          "start": 43.62,
+          "end": 43.8
+        },
+        {
+          "word": " cool.",
+          "start": 43.8,
+          "end": 44.08
+        },
+        {
+          "word": " But",
+          "start": 44.7,
+          "end": 44.88
+        },
+        {
+          "word": " if",
+          "start": 44.88,
+          "end": 45.12
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 45.12,
+      "end": 49.06,
+      "text": " you're not comfortable with all this tracking, you can opt out. There's this option to reject",
+      "words": [
+        {
+          "word": " you're",
+          "start": 45.12,
+          "end": 45.24
+        },
+        {
+          "word": " not",
+          "start": 45.24,
+          "end": 45.4
+        },
+        {
+          "word": " comfortable",
+          "start": 45.4,
+          "end": 45.68
+        },
+        {
+          "word": " with",
+          "start": 45.68,
+          "end": 45.98
+        },
+        {
+          "word": " all",
+          "start": 45.98,
+          "end": 46.12
+        },
+        {
+          "word": " this",
+          "start": 46.12,
+          "end": 46.26
+        },
+        {
+          "word": " tracking,",
+          "start": 46.26,
+          "end": 46.48
+        },
+        {
+          "word": " you",
+          "start": 46.88,
+          "end": 46.98
+        },
+        {
+          "word": " can",
+          "start": 46.98,
+          "end": 47.08
+        },
+        {
+          "word": " opt",
+          "start": 47.08,
+          "end": 47.22
+        },
+        {
+          "word": " out.",
+          "start": 47.22,
+          "end": 47.44
+        },
+        {
+          "word": " There's",
+          "start": 48.2,
+          "end": 48.3
+        },
+        {
+          "word": " this",
+          "start": 48.3,
+          "end": 48.44
+        },
+        {
+          "word": " option",
+          "start": 48.44,
+          "end": 48.58
+        },
+        {
+          "word": " to",
+          "start": 48.58,
+          "end": 48.86
+        },
+        {
+          "word": " reject",
+          "start": 48.86,
+          "end": 49.06
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 49.06,
+      "end": 52.72,
+      "text": " all and it means Google won't use your data for anything except what's necessary to make",
+      "words": [
+        {
+          "word": " all",
+          "start": 49.06,
+          "end": 49.32
+        },
+        {
+          "word": " and",
+          "start": 49.32,
+          "end": 49.52
+        },
+        {
+          "word": " it",
+          "start": 49.52,
+          "end": 49.64
+        },
+        {
+          "word": " means",
+          "start": 49.64,
+          "end": 49.76
+        },
+        {
+          "word": " Google",
+          "start": 49.76,
+          "end": 50.0
+        },
+        {
+          "word": " won't",
+          "start": 50.0,
+          "end": 50.34
+        },
+        {
+          "word": " use",
+          "start": 50.34,
+          "end": 50.48
+        },
+        {
+          "word": " your",
+          "start": 50.48,
+          "end": 50.62
+        },
+        {
+          "word": " data",
+          "start": 50.62,
+          "end": 50.78
+        },
+        {
+          "word": " for",
+          "start": 50.78,
+          "end": 51.02
+        },
+        {
+          "word": " anything",
+          "start": 51.02,
+          "end": 51.2
+        },
+        {
+          "word": " except",
+          "start": 51.2,
+          "end": 51.6
+        },
+        {
+          "word": " what's",
+          "start": 51.6,
+          "end": 51.94
+        },
+        {
+          "word": " necessary",
+          "start": 51.94,
+          "end": 52.34
+        },
+        {
+          "word": " to",
+          "start": 52.34,
+          "end": 52.58
+        },
+        {
+          "word": " make",
+          "start": 52.58,
+          "end": 52.72
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 52.72,
+      "end": 57.98,
+      "text": " the services work. You won't get those targeted ads, but you also will get that personalized experience.",
+      "words": [
+        {
+          "word": " the",
+          "start": 52.72,
+          "end": 52.86
+        },
+        {
+          "word": " services",
+          "start": 52.86,
+          "end": 53.16
+        },
+        {
+          "word": " work.",
+          "start": 53.16,
+          "end": 53.48
+        },
+        {
+          "word": " You",
+          "start": 54.28,
+          "end": 54.4
+        },
+        {
+          "word": " won't",
+          "start": 54.4,
+          "end": 54.64
+        },
+        {
+          "word": " get",
+          "start": 54.64,
+          "end": 54.74
+        },
+        {
+          "word": " those",
+          "start": 54.74,
+          "end": 54.88
+        },
+        {
+          "word": " targeted",
+          "start": 54.88,
+          "end": 55.24
+        },
+        {
+          "word": " ads,",
+          "start": 55.24,
+          "end": 55.54
+        },
+        {
+          "word": " but",
+          "start": 55.98,
+          "end": 56.1
+        },
+        {
+          "word": " you",
+          "start": 56.1,
+          "end": 56.22
+        },
+        {
+          "word": " also",
+          "start": 56.22,
+          "end": 56.42
+        },
+        {
+          "word": " will",
+          "start": 56.42,
+          "end": 56.6
+        },
+        {
+          "word": " get",
+          "start": 56.6,
+          "end": 56.76
+        },
+        {
+          "word": " that",
+          "start": 56.76,
+          "end": 56.88
+        },
+        {
+          "word": " personalized",
+          "start": 56.88,
+          "end": 57.2
+        },
+        {
+          "word": " experience.",
+          "start": 57.2,
+          "end": 57.98
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 58.96,
+      "end": 63.5,
+      "text": " And get this, if you're under a certain age, Google will adapt their services to be more suitable for",
+      "words": [
+        {
+          "word": " And",
+          "start": 58.96,
+          "end": 59.16
+        },
+        {
+          "word": " get",
+          "start": 59.16,
+          "end": 59.4
+        },
+        {
+          "word": " this,",
+          "start": 59.4,
+          "end": 59.68
+        },
+        {
+          "word": " if",
+          "start": 59.98,
+          "end": 60.14
+        },
+        {
+          "word": " you're",
+          "start": 60.14,
+          "end": 60.24
+        },
+        {
+          "word": " under",
+          "start": 60.24,
+          "end": 60.42
+        },
+        {
+          "word": " a",
+          "start": 60.42,
+          "end": 60.54
+        },
+        {
+          "word": " certain",
+          "start": 60.54,
+          "end": 60.66
+        },
+        {
+          "word": " age,",
+          "start": 60.66,
+          "end": 61.1
+        },
+        {
+          "word": " Google",
+          "start": 61.1,
+          "end": 61.38
+        },
+        {
+          "word": " will",
+          "start": 61.38,
+          "end": 61.66
+        },
+        {
+          "word": " adapt",
+          "start": 61.66,
+          "end": 61.86
+        },
+        {
+          "word": " their",
+          "start": 61.86,
+          "end": 62.1
+        },
+        {
+          "word": " services",
+          "start": 62.1,
+          "end": 62.4
+        },
+        {
+          "word": " to",
+          "start": 62.4,
+          "end": 62.7
+        },
+        {
+          "word": " be",
+          "start": 62.7,
+          "end": 62.8
+        },
+        {
+          "word": " more",
+          "start": 62.8,
+          "end": 62.94
+        },
+        {
+          "word": " suitable",
+          "start": 62.94,
+          "end": 63.2
+        },
+        {
+          "word": " for",
+          "start": 63.2,
+          "end": 63.5
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 63.5,
+      "end": 67.72,
+      "text": " you. Like, they won't show you certain types of ads or content that might not be appropriate.",
+      "words": [
+        {
+          "word": " you.",
+          "start": 63.5,
+          "end": 63.66
+        },
+        {
+          "word": " Like,",
+          "start": 64.36,
+          "end": 64.6
+        },
+        {
+          "word": " they",
+          "start": 64.88,
+          "end": 65.08
+        },
+        {
+          "word": " won't",
+          "start": 65.08,
+          "end": 65.22
+        },
+        {
+          "word": " show",
+          "start": 65.22,
+          "end": 65.36
+        },
+        {
+          "word": " you",
+          "start": 65.36,
+          "end": 65.5
+        },
+        {
+          "word": " certain",
+          "start": 65.5,
+          "end": 65.68
+        },
+        {
+          "word": " types",
+          "start": 65.68,
+          "end": 66.02
+        },
+        {
+          "word": " of",
+          "start": 66.02,
+          "end": 66.14
+        },
+        {
+          "word": " ads",
+          "start": 66.14,
+          "end": 66.32
+        },
+        {
+          "word": " or",
+          "start": 66.32,
+          "end": 66.5
+        },
+        {
+          "word": " content",
+          "start": 66.5,
+          "end": 66.82
+        },
+        {
+          "word": " that",
+          "start": 66.82,
+          "end": 67.02
+        },
+        {
+          "word": " might",
+          "start": 67.02,
+          "end": 67.16
+        },
+        {
+          "word": " not",
+          "start": 67.16,
+          "end": 67.32
+        },
+        {
+          "word": " be",
+          "start": 67.32,
+          "end": 67.5
+        },
+        {
+          "word": " appropriate.",
+          "start": 67.5,
+          "end": 67.72
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 68.68,
+      "end": 73.62,
+      "text": " Anyway, it's pretty interesting to see how all this works behind the scenes. I mean, it's crazy how",
+      "words": [
+        {
+          "word": " Anyway,",
+          "start": 68.68,
+          "end": 68.96
+        },
+        {
+          "word": " it's",
+          "start": 69.12,
+          "end": 69.28
+        },
+        {
+          "word": " pretty",
+          "start": 69.28,
+          "end": 69.46
+        },
+        {
+          "word": " interesting",
+          "start": 69.46,
+          "end": 69.72
+        },
+        {
+          "word": " to",
+          "start": 69.72,
+          "end": 70.16
+        },
+        {
+          "word": " see",
+          "start": 70.16,
+          "end": 70.28
+        },
+        {
+          "word": " how",
+          "start": 70.28,
+          "end": 70.48
+        },
+        {
+          "word": " all",
+          "start": 70.48,
+          "end": 70.6
+        },
+        {
+          "word": " this",
+          "start": 70.6,
+          "end": 70.76
+        },
+        {
+          "word": " works",
+          "start": 70.76,
+          "end": 70.96
+        },
+        {
+          "word": " behind",
+          "start": 70.96,
+          "end": 71.2
+        },
+        {
+          "word": " the",
+          "start": 71.2,
+          "end": 71.44
+        },
+        {
+          "word": " scenes.",
+          "start": 71.44,
+          "end": 71.66
+        },
+        {
+          "word": " I",
+          "start": 72.62,
+          "end": 72.7
+        },
+        {
+          "word": " mean,",
+          "start": 72.7,
+          "end": 72.86
+        },
+        {
+          "word": " it's",
+          "start": 73.04,
+          "end": 73.14
+        },
+        {
+          "word": " crazy",
+          "start": 73.14,
+          "end": 73.24
+        },
+        {
+          "word": " how",
+          "start": 73.24,
+          "end": 73.62
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 73.62,
+      "end": 76.94,
+      "text": " much data they're collecting, but it's also kind of awesome how they're using it to make our online",
+      "words": [
+        {
+          "word": " much",
+          "start": 73.62,
+          "end": 73.76
+        },
+        {
+          "word": " data",
+          "start": 73.76,
+          "end": 73.96
+        },
+        {
+          "word": " they're",
+          "start": 73.96,
+          "end": 74.18
+        },
+        {
+          "word": " collecting,",
+          "start": 74.18,
+          "end": 74.44
+        },
+        {
+          "word": " but",
+          "start": 74.8,
+          "end": 74.9
+        },
+        {
+          "word": " it's",
+          "start": 74.9,
+          "end": 75.04
+        },
+        {
+          "word": " also",
+          "start": 75.04,
+          "end": 75.12
+        },
+        {
+          "word": " kind",
+          "start": 75.12,
+          "end": 75.36
+        },
+        {
+          "word": " of",
+          "start": 75.36,
+          "end": 75.5
+        },
+        {
+          "word": " awesome",
+          "start": 75.5,
+          "end": 75.7
+        },
+        {
+          "word": " how",
+          "start": 75.7,
+          "end": 75.94
+        },
+        {
+          "word": " they're",
+          "start": 75.94,
+          "end": 76.1
+        },
+        {
+          "word": " using",
+          "start": 76.1,
+          "end": 76.3
+        },
+        {
+          "word": " it",
+          "start": 76.3,
+          "end": 76.44
+        },
+        {
+          "word": " to",
+          "start": 76.44,
+          "end": 76.52
+        },
+        {
+          "word": " make",
+          "start": 76.52,
+          "end": 76.64
+        },
+        {
+          "word": " our",
+          "start": 76.64,
+          "end": 76.78
+        },
+        {
+          "word": " online",
+          "start": 76.78,
+          "end": 76.94
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 76.94,
+      "end": 77.84,
+      "text": " experience better.",
+      "words": [
+        {
+          "word": " experience",
+          "start": 76.94,
+          "end": 77.42
+        },
+        {
+          "word": " better.",
+          "start": 77.42,
+          "end": 77.84
+        }
+      ]
+    }
+  ]
+}

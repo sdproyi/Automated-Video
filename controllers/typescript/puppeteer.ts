@@ -23,8 +23,8 @@ async function scrapePageText(url: string): Promise<string> {
 
 export { scrapePageText };
 
-async function summarizedScarpedText(text: string) {
-	const summarized = await scrapePageText(text);
+async function summarizedScarpedText(link: string) {
+	const summarized = await scrapePageText(link);
 	return TextUtils.shrinkText(summarized);
 }
 export { summarizedScarpedText };
