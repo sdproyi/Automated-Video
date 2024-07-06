@@ -30,7 +30,7 @@ def transcribe_and_save(audio_file, output_file):
 
 # Usage
 audio_file = "text2speech.wav"
-output_file = "transcription_result.json"
+output_file = "transcription.json"
 transcribe_and_save(audio_file, output_file)
 
 # Print a sample of the result

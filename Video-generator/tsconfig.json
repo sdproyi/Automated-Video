@@ -9,6 +9,7 @@
 		"lib": ["es2015"],
 		"esModuleInterop": true,
 		"skipLibCheck": true,
+		"resolveJsonModule": true,
 		"forceConsistentCasingInFileNames": true,
 		"noUnusedLocals": true
 	}

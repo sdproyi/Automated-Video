@@ -1,0 +1,4 @@
+- [x] text2speech ✅ 2024-07-06
+- [x] speech2text ✅ 2024-07-06
+- [ ] text to image 🛫 2024-07-06
+- [ ] get important words from segment 🛫 2024-07-06 

@@ -15,17 +15,19 @@
     }
   },
   "dependencies": {
-    "@remotion/bundler": "4.0.178",
-    "@remotion/cli": "4.0.178",
-    "@remotion/zod-types": "4.0.178",
+    "@remotion/animation-utils": "4.0.179",
+    "@remotion/bundler": "4.0.179",
+    "@remotion/cli": "4.0.179",
+    "@remotion/media-utils": "^4.0.179",
+    "@remotion/zod-types": "4.0.179",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "remotion": "4.0.178",
+    "remotion": "4.0.179",
     "zod": "3.22.3"
   },
   "devDependencies": {
-    "@remotion/eslint-config": "4.0.178",
-    "@remotion/tailwind": "4.0.178",
+    "@remotion/eslint-config": "4.0.179",
+    "@remotion/tailwind": "4.0.179",
     "@types/react": "^18.3.3",
     "@types/web": "^0.0.143",
     "eslint": "^8.57.0",

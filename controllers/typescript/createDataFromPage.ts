@@ -26,9 +26,8 @@ async function run() {
 	db.run("DELETE FROM text2speech");
 	const summarizedText = await GroqAIResult();
 	const result = insert.run({ $text: summarizedText });
-	result
+	result;
 	db.close();
 }
 
 run().catch(console.error);
-
