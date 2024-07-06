@@ -1,0 +1,121 @@
+[
+  {
+    "segmentId": 1,
+    "word": "targeted ads",
+    "start": 0,
+    "end": 3.74,
+    "imageUrl": "https://images.pexels.com/photos/802024/pexels-photo-802024.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 1,
+    "word": "super targeted",
+    "start": 0,
+    "end": 3.74,
+    "imageUrl": "https://images.pexels.com/photos/6303759/pexels-photo-6303759.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 2,
+    "word": "interested",
+    "start": 3.74,
+    "end": 8.66,
+    "imageUrl": "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 5,
+    "word": "profile",
+    "start": 16.48,
+    "end": 20.46,
+    "imageUrl": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 5,
+    "word": "interested",
+    "start": 16.48,
+    "end": 20.46,
+    "imageUrl": "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 7,
+    "word": "running shoes",
+    "start": 24.92,
+    "end": 29.56,
+    "imageUrl": "https://images.pexels.com/photos/601177/pexels-photo-601177.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 7,
+    "word": "Nike",
+    "start": 24.92,
+    "end": 29.56,
+    "imageUrl": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 7,
+    "word": "Adidas",
+    "start": 24.92,
+    "end": 29.56,
+    "imageUrl": "https://images.pexels.com/photos/48013/pexels-photo-48013.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 7,
+    "word": "clever",
+    "start": 24.92,
+    "end": 29.56,
+    "imageUrl": "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 8,
+    "word": "creepy",
+    "start": 29.84,
+    "end": 34.14,
+    "imageUrl": "https://images.pexels.com/photos/247122/pexels-photo-247122.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 9,
+    "word": "accurate",
+    "start": 34.94,
+    "end": 39.46,
+    "imageUrl": "https://images.pexels.com/photos/262438/pexels-photo-262438.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 10,
+    "word": "spam",
+    "start": 40.26,
+    "end": 45.12,
+    "imageUrl": "https://images.pexels.com/photos/1587014/pexels-photo-1587014.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 10,
+    "word": "scams",
+    "start": 40.26,
+    "end": 45.12,
+    "imageUrl": "https://images.pexels.com/photos/5697260/pexels-photo-5697260.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 11,
+    "word": "tracking",
+    "start": 45.12,
+    "end": 49.06,
+    "imageUrl": "https://images.pexels.com/photos/3912956/pexels-photo-3912956.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 13,
+    "word": "targeted ads",
+    "start": 52.72,
+    "end": 57.98,
+    "imageUrl": "https://images.pexels.com/photos/802024/pexels-photo-802024.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 13,
+    "word": "personalized experience",
+    "start": 52.72,
+    "end": 57.98,
+    "imageUrl": "https://images.pexels.com/photos/3831136/pexels-photo-3831136.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "segmentId": 13,
+    "word": "services work",
+    "start": 52.72,
+    "end": 57.98,
+    "imageUrl": "https://images.pexels.com/photos/1267301/pexels-photo-1267301.jpeg?auto=compress&cs=tinysrgb&h=350"
+  }
+]

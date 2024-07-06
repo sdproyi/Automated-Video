@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "581d5c71cff93d38",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-06 13.18.53.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base features/inputs outputs.md",
+                "file": "Excalidraw/Drawing 2024-07-06 13.18.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base features/inputs outputs.md",
+                "file": "Excalidraw/Drawing 2024-07-06 13.18.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base features/inputs outputs.md"
+                "file": "Excalidraw/Drawing 2024-07-06 13.18.53.excalidraw.md"
               }
             }
           }
@@ -168,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60b3380cf8ec9639",
+  "active": "581d5c71cff93d38",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-07-06 13.18.53.excalidraw.md",
+    "Base features/inputs outputs.md",
     "Base features",
     "Excalidraw/Drawing 2024-07-04 21.05.30.excalidraw.md",
-    "Base features/inputs outputs.md",
     "What video content can AI automate?.md",
     "Excalidraw"
   ]

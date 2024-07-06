@@ -29,7 +29,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="MyComp"
         component={MyComposition}
-        durationInFrames={audioDuration ? Math.ceil(audioDuration * fps) : 400 * fps}
+        durationInFrames={audioDuration ? Math.ceil(audioDuration * fps) : 100 * fps}
         fps={fps}
         width={1280}
         height={720}

@@ -10,7 +10,7 @@ client.photos.search({ query, per_page: 1 }).then((result) => {
 	if ("photos" in result) {
 		const imageUrl = result.photos[0].src.medium;
 		const imageName = `${query}.jpg`;
-		const file = fs.createWriteStream(imageName);
+		const file = fs.createWriteStream(`../../Video-generator/public/${imageName}`);
 		https.get(imageUrl, (response) => {
 			response.pipe(file);
 

@@ -36,7 +36,7 @@
   },
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render MyComp out/video.mp4",
+    "build": "remotion render MyComp out/video.webm",
     "upgrade": "remotion upgrade",
     "test": "eslint src --ext ts,tsx,js,jsx && tsc"
   },

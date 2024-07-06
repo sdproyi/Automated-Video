@@ -1,3 +1,16 @@
 {
-	"cSpell.words": ["Groq", "ljspeech", "tacotron", "vctk", "vits"]
+	"cSpell.words": [
+		"argmax",
+		"Groq",
+		"ljspeech",
+		"punkt",
+		"sdpro",
+		"stopwords",
+		"tacotron",
+		"Tfidf",
+		"toarray",
+		"vctk",
+		"Vectorizer",
+		"vits"
+	]
 }

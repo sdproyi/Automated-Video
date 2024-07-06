@@ -15,5 +15,8 @@
 		{
 			"path": "/home/sdpro/Automated-Video/db"
 		}
-	]
+	],
+	"settings": {
+		"cSpell.words": ["webm"]
+	}
 }
