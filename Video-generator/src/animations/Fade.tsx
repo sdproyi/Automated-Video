@@ -40,10 +40,10 @@ export const Fade: React.FC<FadeProps> = ({
 	}
 
 	return (
-		<span>
-			<div style={{ opacity: fadeIn }}>
+		<span className="w-full h-full">
+			<span style={{ opacity: fadeIn }} >
 				{children}
-			</div>
+			</span>
 		</span>
 	);
 };

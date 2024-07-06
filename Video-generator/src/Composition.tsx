@@ -8,9 +8,9 @@ export const MyComposition = () => {
 
 	return (
 		<AbsoluteFill className="bg-black items-center justify-center">
+			<Images />
 			<Avatar />
 			<Subtitles />
-			<Images />
 			<Audio src={staticFile("text2speech.wav")} />
 		</AbsoluteFill>
 	);

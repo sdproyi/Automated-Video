@@ -4,48 +4,48 @@ import pexelsImageLinks from "../../../controllers/typescript/segmentsWithWords.
 import transcription from "../../../AI/python/transcription.json";
 
 export const Images: React.FC = () => {
-  const { fps } = useVideoConfig();
-  const frame = useCurrentFrame();
+	const { fps } = useVideoConfig();
+	const frame = useCurrentFrame();
+	const currentTime = frame / fps;
 
-  // Convert frame to seconds
-  const currentTime = frame / fps;
+	const currentSegment = React.useMemo(
+		() =>
+			transcription.segments.find(
+				(segment) => currentTime >= segment.start && currentTime <= segment.end,
+			),
+		[currentTime],
+	);
 
-  // Find the current segment based on the current time
-  const currentSegment = React.useMemo(() => 
-    transcription.segments.find(
-      (segment) => currentTime >= segment.start && currentTime <= segment.end,
-    ), [currentTime]
-  );
+	const [currentImageUrl, setCurrentImageUrl] = React.useState("");
 
-  // State to store the current image URL
-  const [currentImageUrl, setCurrentImageUrl] = React.useState("");
+	// Function to find the image URL for the current segment, memoized with useCallback
+	const findImageForSegment = React.useCallback((segmentId: number) => {
+		const matchedLink = pexelsImageLinks.find(
+			(link) => link.segmentId === segmentId,
+		);
+		return matchedLink ? matchedLink.imageUrl : null;
+	}, []);
 
-  // Function to find the image URL for the current segment, memoized with useCallback
-  const findImageForSegment = React.useCallback((segmentId: number) => {
-    const matchedLink = pexelsImageLinks.find(
-      (link) => link.segmentId === segmentId,
-    );
-    return matchedLink ? matchedLink.imageUrl : null;
-  }, []);
+	// Update the image URL if the current segment changes
+	React.useEffect(() => {
+		if (currentSegment) {
+			const imageUrl = findImageForSegment(currentSegment.id);
+			if (imageUrl) {
+				setCurrentImageUrl(imageUrl);
+			}
+		}
+	}, [currentSegment, findImageForSegment]);
 
-  // Update the image URL if the current segment changes
-  React.useEffect(() => {
-    if (currentSegment) {
-      const imageUrl = findImageForSegment(currentSegment.id);
-      if (imageUrl) {
-        setCurrentImageUrl(imageUrl);
-      }
-      console.log(`Current segment ID: ${currentSegment.id}, Image URL: ${imageUrl}`);
-    } else {
-      console.log("No current segment found");
-    }
-  }, [currentSegment, findImageForSegment]);
-
-  return (
-    <div className="w-full h-full pb-32 pt-10">
-      {currentImageUrl && (
-        <Img src={currentImageUrl} className="object-contain w-full h-full" />
-      )}
-    </div>
-  );
+	return (
+		<div className="w-full h-full pb-32 pt-10">
+			<div className="w-fit h-full mx-auto justify-center items-center">
+				{currentImageUrl && (
+					<Img
+						src={currentImageUrl}
+						className="object-contain w-full h-full rounded-md"
+					/>
+				)}
+			</div>
+		</div>
+	);
 };
