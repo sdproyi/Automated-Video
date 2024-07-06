@@ -2,12 +2,16 @@ import { AbsoluteFill, staticFile, Audio } from "remotion";
 import { Images } from "./features/Images";
 import { Subtitles } from "./features/Subtitles";
 import { Avatar } from "./features/Avatar";
+import "./font.css";
 
 export const MyComposition = () => {
 	console.log(staticFile("text2speech.wav"));
 
 	return (
-		<AbsoluteFill className="bg-black items-center justify-center">
+		<AbsoluteFill
+			style={{ fontFamily: "Poppins" }}
+			className="bg-black items-center justify-center"
+		>
 			<Images />
 			<Avatar />
 			<Subtitles />
