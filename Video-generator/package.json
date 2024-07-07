@@ -2,19 +2,25 @@
 	"name": "video-maker",
 	"version": "1.0.0",
 	"description": "My Remotion video",
-	"sideEffects": ["*.css"],
+	"sideEffects": [
+		"*.css"
+	],
 	"repository": {},
 	"license": "UNLICENSED",
 	"pnpm": {
 		"peerDependencyRules": {
-			"ignoreMissing": ["webpack"]
+			"ignoreMissing": [
+				"webpack"
+			]
 		}
 	},
 	"dependencies": {
+		"@babel/parser": "^7.24.7",
 		"@remotion/animation-utils": "4.0.179",
 		"@remotion/bundler": "4.0.179",
 		"@remotion/cli": "4.0.179",
 		"@remotion/media-utils": "^4.0.179",
+		"@remotion/preload": "^4.0.179",
 		"@remotion/zod-types": "4.0.179",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1",

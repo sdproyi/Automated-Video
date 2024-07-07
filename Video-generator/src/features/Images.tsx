@@ -41,6 +41,8 @@ export const Images: React.FC = () => {
 			<div className="w-fit h-full mx-auto justify-center items-center">
 				{currentImageUrl && (
 					<Img
+						maxRetries={3}
+						pauseWhenLoading={true}
 						src={currentImageUrl}
 						className="object-contain w-full h-full rounded-md"
 					/>
